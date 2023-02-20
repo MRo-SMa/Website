@@ -18,4 +18,4 @@ collaborate
 with programmers and other users of Git.
 
 For more information on Git, see the
-[official Git documentation](https://git-scm.com/).
+[official Git documentation] (https://git-scm.com/).
