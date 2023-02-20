@@ -19,4 +19,6 @@ with programmers and other users of Git.
 
 More info:
 For more information on Git, see the
-[official Git documentation] (https://git-scm.com/).
+[official Git documentation] <a>(https://git-scm.com/).</a>
+
+
